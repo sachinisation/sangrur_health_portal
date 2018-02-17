@@ -1,0 +1,55 @@
+*{
+	background-color:#f7d09e;
+}
+#main
+{	background-color:white;
+	margin:auto;
+	float:auto;
+	width:1100px;
+	height:700px;
+	position:right;
+}
+#header
+{
+	margin:auto;
+	width:1100px;
+	height:50px;
+	background-color:#a08edb;
+	text-align:center;
+	
+
+}
+#header img
+{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 1100px;
+	height:150px;
+	margin-bottom:4px;
+}
+#tab 
+{	
+	margin-top:150px;
+	text-align:center;
+	width:1000px;
+	margin-left:50px;
+	font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 90%;
+	height:30px;
+	background-color:white;
+	
+}
+#tab th
+{
+	height:50px;
+	text-align:center;
+
+}
+#tab td
+{
+	height:50px;
+	text-align:center;
+
+}
